@@ -102,7 +102,7 @@ export const FOOTER = {
   copyright: "© 2025 Bella Exotica",
 };
 
-export const UNDER_MAINTENANCE = true;
+export const UNDER_MAINTENANCE = false;
 
 export const MAINTENANCE_TEXTS = {
   logoText: "Bella Exotica",
